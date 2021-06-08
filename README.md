@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jebabiahgames
-- 👀 I’m interested in game development, focusing on programming, designing, and writing.
-- 🌱 I’m currently learning?
+- 👀 I’m interested in game development, with a focus on programming!
 - 💞️ I’m looking to collaborate on games!
 - 📫 Reach me @ jebabiahgames@gmail.com
 
